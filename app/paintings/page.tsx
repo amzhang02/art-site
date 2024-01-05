@@ -15,7 +15,7 @@ export default function Paintings() {
                         2023
                     </p>
                     <br/>
-                    <Image src='/self_portrait.JPG' width={450} height={700} alt='Self portrait with pink sunglasses and head resting on hand.'/>
+                    <Image src='/self_portrait.jpg' width={450} height={700} alt='Self portrait with pink sunglasses and head resting on hand.'/>
                     <p> 
                         Self Portrait 
                         <br/>
