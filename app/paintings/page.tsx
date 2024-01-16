@@ -2,7 +2,7 @@ import Image from "next/image"
 export default function Paintings() {
     return (
         <>
-            <div className='grid grid-cols-2 gap-4'>
+            <div className='grid lg:grid-cols-2 gap-4 md:grid-cols-1'>
                 <div> 
                     <Image src='/jimmy.JPG' width={450} height={700} alt='Painting of a man in a wetsuit holding out a sneaker towards the viewer.'/>
                     <p> 
