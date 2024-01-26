@@ -507,14 +507,11 @@ video {
 .mr-10 {
   margin-right: 2.5rem;
 }
-.mr-\[40px\] {
-  margin-right: 40px;
-}
 .mt-10 {
   margin-top: 2.5rem;
 }
-.mt-\[50px\] {
-  margin-top: 50px;
+.mr-\[100px\] {
+  margin-right: 100px;
 }
 .block {
   display: block;
@@ -569,6 +566,12 @@ video {
 }
 .whitespace-nowrap {
   white-space: nowrap;
+}
+.pl-\[150px\] {
+  padding-left: 150px;
+}
+.pt-\[50px\] {
+  padding-top: 50px;
 }
 .text-2xl {
   font-size: 1.5rem;

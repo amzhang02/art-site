@@ -51,7 +51,7 @@ export default function RootLayout({
       <body className={abhaya_libre.className}>
         <div className="flex flex-row justify-between">
           <h1 className='w-[273px] h-[40px] text-black text-[40px] font-normal ml-10 mt-10'>
-            <Link onClick = {handleClick} href={'/'}>Alyssa Zhang</Link>
+            <Link href={'/'}>Alyssa Zhang</Link>
           </h1>
           <div className="mr-10 mt-10 lg:hidden">
             <Hamburger onToggle={handleClick} toggled = {isOpen}/>
@@ -63,7 +63,7 @@ export default function RootLayout({
         {!isOpen &&
           <div className='flex ml-10'>
             <Nav />
-            <div className='mt-[50px] mr-[40px]'>
+            <div className='pt-[50px] pl-[150px]'>
               {children}
             </div>
           </div>

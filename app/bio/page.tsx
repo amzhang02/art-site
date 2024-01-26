@@ -1,7 +1,7 @@
 export default function Bio() {
     return (<>
         <h2 className="text-black text-2xl font-bold">About the Work</h2>
-        <p>
+        <p className="mr-[100px]">
             Growing up as the child of Chinese immigrants in America, my childhood was defined by the race towards the 
             next stage of life and the tricked-down fear of falling behind-- the more I achieved and the earlier I grew up the better. 
             I looked for ways to memorialize myself in that time, whether that be collecting stuffed animals or saving old workbooks. 
@@ -11,7 +11,7 @@ export default function Bio() {
         </p>
         <br/>
         <h2 className="text-black text-2xl font-bold">About the Artist</h2>
-        <p>
+        <p className="mr-[100px]">
             Alyssa Zhang (b. 2002) is originally from Portland, OR and is in her final semester at Swarthmore College where she
             is pursuing a B.A. in Art (Painting) and Computer Science. At Swarthmore, she is an active member of Kitao 
             (Swarthmore's student-run gallery), Swarthmore College Computer Society, and the Women's Track & Field team. Alyssa also

@@ -7,7 +7,7 @@ const pages = [{ title: 'Paintings', link: 'paintings' }, { title: 'Sculptures',
 
 export default function Nav({handleClick} : any) {
   return (
-    <div className='w-[273px] text-black text-2xl font-normal mt-10 hidden sm:block'>
+    <div className='text-black text-2xl font-normal mt-10 hidden sm:block'>
       {pages.map(page => <NavItem page={page} key={page.link} handleClick={handleClick}/>)}
     </div>
   )
