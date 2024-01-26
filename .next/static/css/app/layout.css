@@ -507,11 +507,11 @@ video {
 .mr-10 {
   margin-right: 2.5rem;
 }
-.mt-10 {
-  margin-top: 2.5rem;
-}
 .mr-\[100px\] {
   margin-right: 100px;
+}
+.mt-10 {
+  margin-top: 2.5rem;
 }
 .block {
   display: block;
@@ -572,6 +572,15 @@ video {
 }
 .pt-\[50px\] {
   padding-top: 50px;
+}
+.pr-\[\] {
+  padding-right: ;
+}
+.pr-\[50px\] {
+  padding-right: 50px;
+}
+.pl-\[100px\] {
+  padding-left: 100px;
 }
 .text-2xl {
   font-size: 1.5rem;
