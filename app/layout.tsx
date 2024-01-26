@@ -1,4 +1,5 @@
 "use client"
+import React from 'react'
 import type { Metadata } from 'next'
 import { Abhaya_Libre } from 'next/font/google'
 import './globals.css'
@@ -7,10 +8,10 @@ import Link from "next/link";
 import NavItem from "./NavItem";
 import Hamburger from 'hamburger-react'
 import { useState } from "react"
+import { useClickAway } from "react-use";
 
 const abhaya_libre = Abhaya_Libre({ weight: '400', subsets: ['latin'] })
 const pages = [{ title: 'Paintings', link: 'paintings' }, { title: 'Sculptures', link: 'sculptures' }, { title: 'Drawings', link: 'drawings' }, { title: 'Bio', link: 'bio' }, { title: 'Contact', link: 'contact' }]
-
 
 // export const metadata: Metadata = {
 //   title: 'Create Next App',
@@ -26,6 +27,8 @@ export default function RootLayout({
   const handleClick = () => {
     setIsOpen(!isOpen)
   }
+  const ref = React.useRef(null);
+    useClickAway(ref, () => setIsOpen(false));
 
   function Hamburglar(isOpen: boolean) {
     if (isOpen) {
@@ -51,7 +54,7 @@ export default function RootLayout({
             <Link onClick = {handleClick} href={'/'}>Alyssa Zhang</Link>
           </h1>
           <div className="mr-10 mt-10 lg:hidden">
-            <Hamburger onToggle={handleClick} />
+            <Hamburger onToggle={handleClick} toggled = {isOpen}/>
           </div>
         </div>
         <div className='ml-10'>
