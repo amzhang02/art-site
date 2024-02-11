@@ -26,6 +26,7 @@ export default function Bio() {
                 <br/>
                 2022
                 <br/>
+                <br/>
                 2022
                 <br/>
                 2021
@@ -40,6 +41,12 @@ export default function Bio() {
                 Robbins Chang Big Data/Social Change Internship Award
             </div>
         </div>
+        <br/>
+        <h2 className="text-black text-2xl font-bold"> Resume </h2>
+        <p className="mr-[100px]">
+            <u><a href="/Alyssa_Zhang_Resume_202324A.pdf"> Click here</a></u> to download a PDF version of my resume.
+        </p>
+        
         
 
     </>)

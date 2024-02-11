@@ -11,20 +11,15 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/paintings/page": [
+    "/bio/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/paintings/page.js"
+      "static/chunks/app/bio/page.js"
     ],
-    "/sculptures/page": [
+    "/not-found": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/sculptures/page.js"
-    ],
-    "/drawings/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/drawings/page.js"
+      "static/chunks/app/not-found.js"
     ]
   }
 }

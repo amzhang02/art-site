@@ -513,9 +513,6 @@ video {
 .mt-10 {
   margin-top: 2.5rem;
 }
-.ml-8 {
-  margin-left: 2rem;
-}
 .block {
   display: block;
 }
@@ -569,9 +566,6 @@ video {
 }
 .whitespace-nowrap {
   white-space: nowrap;
-}
-.pl-\[150px\] {
-  padding-left: 150px;
 }
 .pr-\[50px\] {
   padding-right: 50px;

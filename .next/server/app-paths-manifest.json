@@ -1,4 +1,5 @@
 {
-  "/sculptures/page": "app/sculptures/page.js",
-  "/paintings/page": "app/paintings/page.js"
+  "/not-found": "app/not-found.js",
+  "/bio/page": "app/bio/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }
