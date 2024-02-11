@@ -1,15 +1,5 @@
 export default function Bio() {
     return (<>
-        <h2 className="text-black text-2xl font-bold">About the Work</h2>
-        <p className="mr-[100px]">
-            Growing up as the child of Chinese immigrants in America, my childhood was defined by the race towards the 
-            next stage of life and the tricked-down fear of falling behind-- the more I achieved and the earlier I grew up the better. 
-            I looked for ways to memorialize myself in that time, whether that be collecting stuffed animals or saving old workbooks. 
-            I still seek the small moments where the rush of modern capitalist American life fades. My paintings and drawings 
-            detail my search for moments in which I feel time's stillness as seen through candidly affected objects 
-            with past lives which have been left behind along with them-- a collection of timeless Nows.
-        </p>
-        <br/>
         <h2 className="text-black text-2xl font-bold">About the Artist</h2>
         <p className="mr-[100px]">
             Alyssa Zhang (b. 2002) is originally from Portland, OR and is in her final semester at Swarthmore College where she
