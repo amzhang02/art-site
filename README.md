@@ -1,6 +1,6 @@
 # alyssamzhang.com
 
-This is the source code for [alyssamzhang.com](https://alyssamzhang.com), which was build with Next.js and Tailwind CSS. The custom domain has not been connected yet due to domain provider issues. To view this site in a browser, [click here](https://art-site-nine.vercel.app).
+This is the source code for [alyssamzhang.com](https://alyssamzhang.com), which was build with Next.js and Tailwind CSS. The custom domain has not been connected yet due to domain provider issues.
 
 ## Development
 To install Next.js and create a project, go to [the Next.js documentation page on installation](https://nextjs.org/docs/getting-started/installation).
