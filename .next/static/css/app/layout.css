@@ -513,6 +513,9 @@ video {
 .mt-10 {
   margin-top: 2.5rem;
 }
+.ml-8 {
+  margin-left: 2rem;
+}
 .block {
   display: block;
 }
@@ -570,17 +573,11 @@ video {
 .pl-\[150px\] {
   padding-left: 150px;
 }
-.pt-\[50px\] {
-  padding-top: 50px;
-}
-.pr-\[\] {
-  padding-right: ;
-}
 .pr-\[50px\] {
   padding-right: 50px;
 }
-.pl-\[100px\] {
-  padding-left: 100px;
+.pt-\[50px\] {
+  padding-top: 50px;
 }
 .text-2xl {
   font-size: 1.5rem;
@@ -653,6 +650,10 @@ video {
 
   .lg\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .lg\:pl-\[150px\] {
+    padding-left: 150px;
   }
 }
 

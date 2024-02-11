@@ -63,7 +63,7 @@ export default function RootLayout({
         {!isOpen &&
           <div className='flex ml-10'>
             <Nav />
-            <div className='pt-[50px] pl-[150px] pr-[50px]'>
+            <div className='pt-[50px] lg:pl-[150px] pr-[50px]'>
               {children}
             </div>
           </div>
