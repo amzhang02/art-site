@@ -26,7 +26,6 @@ export default function Bio() {
                 <br/>
                 2022
                 <br/>
-                <br/>
                 2022
                 <br/>
                 2021
@@ -34,7 +33,7 @@ export default function Bio() {
             <div className="col-span-4">
                 Sigma Xi Virtual STEM Art and Film Festival Honorable Mention
                 <br/>
-                CCSC Eastern Conference 2022 Best Faculty Poster Award (Co-Authored)
+                CCSC Eastern Conference 2022 Best Faculty Poster Award
                 <br/>
                 Deborah A. DeMott '70 Student Research & Internship Award
                 <br/>
