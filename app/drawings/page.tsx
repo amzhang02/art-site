@@ -4,7 +4,7 @@ export default function Drawings() {
         <>
             <div className='grid lg:grid-cols-2 gap-4 md:grid-cols-1'>
                 <div> 
-                    <Image src='/barn.JPG' width={400} height={700} alt='Drawing of the interior of a run-down barn.'/>
+                    <Image src='barn.JPG' width={400} height={700} alt='Drawing of the interior of a run-down barn.'/>
                     <p> 
                         Barn
                         <br/>
@@ -15,7 +15,7 @@ export default function Drawings() {
                         2023
                     </p>
                     <br/>
-                    <Image src='/self_portrait_2.JPG' width={400} height={700} alt='Close-up self portrait.'/>
+                    <Image src='self_portrait_2.JPG' width={400} height={700} alt='Close-up self portrait.'/>
                     <p> 
                         Self Portrait 
                         <br/>
@@ -27,7 +27,7 @@ export default function Drawings() {
                     </p>
                 </div>
                 <div> 
-                    <Image src='/fish_dish.JPG' width={350} height={200} alt='Drawing of kitchen shelf with fish plates and lamp.'/>
+                    <Image src='fish_dish.JPG' width={350} height={200} alt='Drawing of kitchen shelf with fish plates and lamp.'/>
                     <p> 
                         Fish Dish
                         <br/>
@@ -38,7 +38,7 @@ export default function Drawings() {
                         2023
                     </p>
                     <br/>
-                    <Image src='/tentacle.jpg' width={450} height={200} alt='Octopus tentacle suckers on streaky background.'/>
+                    <Image src='tentacle.jpg' width={450} height={200} alt='Octopus tentacle suckers on streaky background.'/>
                     <p> 
                         Tentacle
                         <br/>
@@ -49,7 +49,7 @@ export default function Drawings() {
                         2021
                     </p>
                     <br/>
-                    <Image src='/the_deep.jpg' width={500} height={200} alt='Octopus wrapped in tentacles in circular formation.'/>
+                    <Image src='the_deep.jpg' width={500} height={200} alt='Octopus wrapped in tentacles in circular formation.'/>
                     <p> 
                         The Deep
                         <br/>
