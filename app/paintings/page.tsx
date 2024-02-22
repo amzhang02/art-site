@@ -4,7 +4,7 @@ export default function Paintings() {
         <>
             <div className='grid lg:grid-cols-2 gap-4 md:grid-cols-1'>
                 <div> 
-                    <Image src='jimmy.jpg' width={450} height={700} alt='Painting of a man in a wetsuit holding out a sneaker towards the viewer.'/>
+                    <Image src='jimmy.JPG' width={450} height={700} alt='Painting of a man in a wetsuit holding out a sneaker towards the viewer.'/>
                     <p> 
                         Jimmy 
                         <br/>
