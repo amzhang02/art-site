@@ -4,7 +4,7 @@ export default function Paintings() {
         <>
             <div className='grid lg:grid-cols-2 gap-4 md:grid-cols-1'>
                 <div> 
-                    <Image src='/jimmy.JPG' width={450} height={700} alt='Painting of a man in a wetsuit holding out a sneaker towards the viewer.'/>
+                    <Image src='jimmy.JPG' width={450} height={700} alt='Painting of a man in a wetsuit holding out a sneaker towards the viewer.'/>
                     <p> 
                         Jimmy 
                         <br/>
@@ -15,7 +15,7 @@ export default function Paintings() {
                         2023
                     </p>
                     <br/>
-                    <Image src='/self_portrait.jpg' width={450} height={700} alt='Self portrait with pink sunglasses and head resting on hand.'/>
+                    <Image src='self_portrait.jpg' width={450} height={700} alt='Self portrait with pink sunglasses and head resting on hand.'/>
                     <p> 
                         Self Portrait 
                         <br/>
@@ -27,7 +27,7 @@ export default function Paintings() {
                     </p>
                 </div>
                 <div> 
-                    <Image src='/glasses.JPG' width={504} height={200} alt='Close-cropped self portrait from high angle with pink sunglasses.'/>
+                    <Image src='glasses.JPG' width={504} height={200} alt='Close-cropped self portrait from high angle with pink sunglasses.'/>
                     <p> 
                         Self Portrait 3
                         <br/>
@@ -38,7 +38,7 @@ export default function Paintings() {
                         2023
                     </p>
                     <br/>
-                    <Image src='/red_jacket.JPG' width={450} height={200} alt='Self portrait with red jacket.'/>
+                    <Image src='red_jacket.JPG' width={450} height={200} alt='Self portrait with red jacket.'/>
                     <p> 
                         Self Portrait 2
                         <br/>
