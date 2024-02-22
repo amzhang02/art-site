@@ -4,7 +4,7 @@ export default function Paintings() {
         <>
             <div className='grid lg:grid-cols-2 gap-4 md:grid-cols-1'>
                 <div> 
-                    <Image src='jimmy.JPG' width={450} height={700} alt='Painting of a man in a wetsuit holding out a sneaker towards the viewer.'/>
+                    <Image src='jimmy.jpg' width={450} height={700} alt='Painting of a man in a wetsuit holding out a sneaker towards the viewer.'/>
                     <p> 
                         Jimmy 
                         <br/>
@@ -15,9 +15,9 @@ export default function Paintings() {
                         2023
                     </p>
                     <br/>
-                    <Image src='self_portrait.jpg' width={450} height={700} alt='Self portrait with pink sunglasses and head resting on hand.'/>
+                    <Image src='selfportrait1.jpg' width={450} height={700} alt='Self portrait with pink sunglasses and head resting on hand.'/>
                     <p> 
-                        Self Portrait 
+                        Self Portrait 1
                         <br/>
                         Oil on Canvas
                         <br/>
@@ -38,7 +38,18 @@ export default function Paintings() {
                         2023
                     </p>
                     <br/>
-                    <Image src='red_jacket.JPG' width={450} height={200} alt='Self portrait with red jacket.'/>
+                    <Image src='miranda.jpg' width={450} height={200} alt='Painting of a friend named Miranda in Italy.'/>
+                    <p> 
+                        Miranda
+                        <br/>
+                        Oil on Canvas
+                        <br/>
+                        12in x 10in
+                        <br/>
+                        2023
+                    </p>
+                    <br/>
+                    <Image src='selfportrait2.jpg' width={450} height={200} alt='Self portrait with red jacket.'/>
                     <p> 
                         Self Portrait 2
                         <br/>
