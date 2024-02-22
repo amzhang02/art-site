@@ -71,7 +71,7 @@ export default function RootLayout({
         <div className=' flex bottom-4 text-sm m-10'>
           <p>
             &copy; 2024 Alyssa Zhang. This website was built using Next.js,
-            Typescript, & <a href='https://tailwindcss.com/' className='underline'>Tailwind CSS</a> and is open source.
+            Typescript, & <a href='https://tailwindcss.com/' className='underline'>Tailwind CSS</a> and is <a href='https://github.com/amzhang02/art-site' className='underline'>open source</a>.
           </p>
         </div>
       </body>
