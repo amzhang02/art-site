@@ -27,7 +27,7 @@ export default function Paintings() {
                     </p>
                 </div>
                 <div> 
-                    <Image src='glasses.JPG' width={504} height={200} alt='Close-cropped self portrait from high angle with pink sunglasses.'/>
+                    <Image src='selfportrait3.jpg' width={504} height={200} alt='Close-cropped self portrait from high angle with pink sunglasses.'/>
                     <p> 
                         Self Portrait 3
                         <br/>
