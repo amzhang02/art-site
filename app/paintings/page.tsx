@@ -10,7 +10,7 @@ export default function Paintings() {
                         <br/>
                         Oil on Canvas
                         <br/>
-                        24in x 36in
+                        28 x 22 inches
                         <br/>
                         2023
                     </p>
@@ -21,7 +21,7 @@ export default function Paintings() {
                         <br/>
                         Oil on Canvas
                         <br/>
-                        24in x 24in
+                        22 x 22 inches
                         <br/>
                         2022
                     </p>
@@ -33,7 +33,7 @@ export default function Paintings() {
                         <br/>
                         Oil on Canvas
                         <br/>
-                        24in x 18in
+                        14 x 22 inches
                         <br/>
                         2023
                     </p>
@@ -44,7 +44,7 @@ export default function Paintings() {
                         <br/>
                         Oil on Canvas
                         <br/>
-                        12in x 10in
+                        14 x 12 inches
                         <br/>
                         2023
                     </p>
@@ -55,7 +55,7 @@ export default function Paintings() {
                         <br/>
                         Oil on Canvas
                         <br/>
-                        16in x 18in
+                        16 x 14 inches
                         <br/>
                         2022
                     </p>

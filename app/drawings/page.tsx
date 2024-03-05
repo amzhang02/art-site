@@ -10,7 +10,7 @@ export default function Drawings() {
                         <br/>
                         Charcoal on Arches Paper
                         <br/>
-                        8in x 10in
+                        11 x 7.5 inches
                         <br/>
                         2023
                     </p>
@@ -44,7 +44,7 @@ export default function Drawings() {
                         <br/>
                         Charcoal on Paper
                         <br/>
-                        8in x 11in
+                        11 x 14 inches
                         <br/>
                         2021
                     </p>
@@ -55,7 +55,7 @@ export default function Drawings() {
                         <br/>
                         Charcoal & Acrylic on Canvas
                         <br/>
-                        3ft x 6ft
+                        68 x 100 inches
                         <br/>
                         2021
                     </p>
